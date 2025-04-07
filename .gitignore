@@ -1,0 +1,6 @@
+data_cifar/
+data/
+optuna_results/
+*pt
+*json
+*png
